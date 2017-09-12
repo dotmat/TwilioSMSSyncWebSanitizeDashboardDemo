@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twilio/sdk": "^5.13",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
